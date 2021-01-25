@@ -1,0 +1,502 @@
+[
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.14285714285714285,
+        "unrequited_love": 0.36666666666666664,
+        "asymmetric_friendships": 0.14285714285714285,
+        "misanthropes": 0.004761904761904762,
+        "rivalries": 0.004761904761904762,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.07142857142857142
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.20710059171597633,
+        "unrequited_love": 0.47337278106508873,
+        "asymmetric_friendships": 0.20710059171597633,
+        "misanthropes": 0.0,
+        "rivalries": 0.01775147928994083,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.047337278106508875
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.14754098360655737,
+        "unrequited_love": 0.5122950819672131,
+        "asymmetric_friendships": 0.14754098360655737,
+        "misanthropes": 0.004098360655737705,
+        "rivalries": 0.01639344262295082,
+        "sibling_rivalries": 0.004098360655737705,
+        "business_owner_rivalries": 0.0778688524590164
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.14184397163120568,
+        "unrequited_love": 0.3546099290780142,
+        "asymmetric_friendships": 0.14184397163120568,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.0425531914893617
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.14444444444444443,
+        "unrequited_love": 0.5166666666666667,
+        "asymmetric_friendships": 0.14444444444444443,
+        "misanthropes": 0.0,
+        "rivalries": 0.044444444444444446,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.06111111111111111
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.18543046357615894,
+        "unrequited_love": 0.4304635761589404,
+        "asymmetric_friendships": 0.18543046357615894,
+        "misanthropes": 0.0,
+        "rivalries": 0.013245033112582781,
+        "sibling_rivalries": 0.013245033112582781,
+        "business_owner_rivalries": 0.07947019867549669
+    },
+    {
+        "love_triangles": 0.021739130434782608,
+        "extramarital_romance": 0.14673913043478262,
+        "unrequited_love": 0.42934782608695654,
+        "asymmetric_friendships": 0.14673913043478262,
+        "misanthropes": 0.005434782608695652,
+        "rivalries": 0.04891304347826087,
+        "sibling_rivalries": 0.010869565217391304,
+        "business_owner_rivalries": 0.059782608695652176
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.1780821917808219,
+        "unrequited_love": 0.3835616438356164,
+        "asymmetric_friendships": 0.1780821917808219,
+        "misanthropes": 0.0045662100456621,
+        "rivalries": 0.0273972602739726,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.045662100456621
+    },
+    {
+        "love_triangles": 0.016853932584269662,
+        "extramarital_romance": 0.19101123595505617,
+        "unrequited_love": 0.47752808988764045,
+        "asymmetric_friendships": 0.19101123595505617,
+        "misanthropes": 0.0,
+        "rivalries": 0.011235955056179775,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.06741573033707865
+    },
+    {
+        "love_triangles": 0.028985507246376812,
+        "extramarital_romance": 0.17391304347826086,
+        "unrequited_love": 0.4927536231884058,
+        "asymmetric_friendships": 0.17391304347826086,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.07246376811594203
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.14685314685314685,
+        "unrequited_love": 0.38461538461538464,
+        "asymmetric_friendships": 0.14685314685314685,
+        "misanthropes": 0.0,
+        "rivalries": 0.006993006993006993,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.055944055944055944
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.10526315789473684,
+        "unrequited_love": 0.0,
+        "asymmetric_friendships": 0.10526315789473684,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.0
+    },
+    {
+        "love_triangles": 0.006211180124223602,
+        "extramarital_romance": 0.14906832298136646,
+        "unrequited_love": 0.37267080745341613,
+        "asymmetric_friendships": 0.14906832298136646,
+        "misanthropes": 0.012422360248447204,
+        "rivalries": 0.06832298136645963,
+        "sibling_rivalries": 0.012422360248447204,
+        "business_owner_rivalries": 0.055900621118012424
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.21142857142857144,
+        "unrequited_love": 0.44571428571428573,
+        "asymmetric_friendships": 0.21142857142857144,
+        "misanthropes": 0.0,
+        "rivalries": 0.04,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.06285714285714286
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.2037037037037037,
+        "unrequited_love": 0.32098765432098764,
+        "asymmetric_friendships": 0.2037037037037037,
+        "misanthropes": 0.0,
+        "rivalries": 0.043209876543209874,
+        "sibling_rivalries": 0.030864197530864196,
+        "business_owner_rivalries": 0.04938271604938271
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.15873015873015872,
+        "unrequited_love": 0.3915343915343915,
+        "asymmetric_friendships": 0.15873015873015872,
+        "misanthropes": 0.0,
+        "rivalries": 0.042328042328042326,
+        "sibling_rivalries": 0.005291005291005291,
+        "business_owner_rivalries": 0.06878306878306878
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.1836734693877551,
+        "unrequited_love": 0.3010204081632653,
+        "asymmetric_friendships": 0.1836734693877551,
+        "misanthropes": 0.0,
+        "rivalries": 0.030612244897959183,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.05102040816326531
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.2375,
+        "unrequited_love": 0.4375,
+        "asymmetric_friendships": 0.2375,
+        "misanthropes": 0.0,
+        "rivalries": 0.0125,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.05
+    },
+    {
+        "love_triangles": 0.010752688172043012,
+        "extramarital_romance": 0.24193548387096775,
+        "unrequited_love": 0.41397849462365593,
+        "asymmetric_friendships": 0.24193548387096775,
+        "misanthropes": 0.0,
+        "rivalries": 0.03225806451612903,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.06989247311827956
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.1388888888888889,
+        "unrequited_love": 0.2722222222222222,
+        "asymmetric_friendships": 0.1388888888888889,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.07222222222222222
+    },
+    {
+        "love_triangles": 0.009708737864077669,
+        "extramarital_romance": 0.22330097087378642,
+        "unrequited_love": 0.3106796116504854,
+        "asymmetric_friendships": 0.22330097087378642,
+        "misanthropes": 0.0,
+        "rivalries": 0.009708737864077669,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.08737864077669903
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.12562814070351758,
+        "unrequited_love": 0.3417085427135678,
+        "asymmetric_friendships": 0.12562814070351758,
+        "misanthropes": 0.010050251256281407,
+        "rivalries": 0.06532663316582915,
+        "sibling_rivalries": 0.03015075376884422,
+        "business_owner_rivalries": 0.08542713567839195
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.11971830985915492,
+        "unrequited_love": 0.3380281690140845,
+        "asymmetric_friendships": 0.11971830985915492,
+        "misanthropes": 0.0,
+        "rivalries": 0.007042253521126761,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.056338028169014086
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.13023255813953488,
+        "unrequited_love": 0.4372093023255814,
+        "asymmetric_friendships": 0.13023255813953488,
+        "misanthropes": 0.0,
+        "rivalries": 0.013953488372093023,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.07906976744186046
+    },
+    {
+        "love_triangles": 0.029585798816568046,
+        "extramarital_romance": 0.14792899408284024,
+        "unrequited_love": 0.40236686390532544,
+        "asymmetric_friendships": 0.14792899408284024,
+        "misanthropes": 0.0,
+        "rivalries": 0.01775147928994083,
+        "sibling_rivalries": 0.005917159763313609,
+        "business_owner_rivalries": 0.03550295857988166
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.11842105263157894,
+        "unrequited_love": 0.32894736842105265,
+        "asymmetric_friendships": 0.11842105263157894,
+        "misanthropes": 0.006578947368421052,
+        "rivalries": 0.039473684210526314,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.09210526315789473
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.17266187050359713,
+        "unrequited_love": 0.3597122302158273,
+        "asymmetric_friendships": 0.17266187050359713,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.04316546762589928
+    },
+    {
+        "love_triangles": 0.010810810810810811,
+        "extramarital_romance": 0.16216216216216217,
+        "unrequited_love": 0.40540540540540543,
+        "asymmetric_friendships": 0.16216216216216217,
+        "misanthropes": 0.0,
+        "rivalries": 0.010810810810810811,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.07027027027027027
+    },
+    {
+        "love_triangles": 0.03333333333333333,
+        "extramarital_romance": 0.17777777777777778,
+        "unrequited_love": 0.31666666666666665,
+        "asymmetric_friendships": 0.17777777777777778,
+        "misanthropes": 0.0,
+        "rivalries": 0.005555555555555556,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.08333333333333333
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.12105263157894737,
+        "unrequited_love": 0.3105263157894737,
+        "asymmetric_friendships": 0.12105263157894737,
+        "misanthropes": 0.0,
+        "rivalries": 0.02631578947368421,
+        "sibling_rivalries": 0.010526315789473684,
+        "business_owner_rivalries": 0.07894736842105263
+    },
+    {
+        "love_triangles": 0.006666666666666667,
+        "extramarital_romance": 0.16,
+        "unrequited_love": 0.4066666666666667,
+        "asymmetric_friendships": 0.16,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.05333333333333334
+    },
+    {
+        "love_triangles": 0.010309278350515464,
+        "extramarital_romance": 0.15979381443298968,
+        "unrequited_love": 0.4690721649484536,
+        "asymmetric_friendships": 0.15979381443298968,
+        "misanthropes": 0.0,
+        "rivalries": 0.030927835051546393,
+        "sibling_rivalries": 0.010309278350515464,
+        "business_owner_rivalries": 0.07216494845360824
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.24120603015075376,
+        "unrequited_love": 0.5175879396984925,
+        "asymmetric_friendships": 0.24120603015075376,
+        "misanthropes": 0.0,
+        "rivalries": 0.010050251256281407,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.09045226130653267
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.12598425196850394,
+        "unrequited_love": 0.4094488188976378,
+        "asymmetric_friendships": 0.12598425196850394,
+        "misanthropes": 0.007874015748031496,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.047244094488188976
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.18452380952380953,
+        "unrequited_love": 0.36904761904761907,
+        "asymmetric_friendships": 0.18452380952380953,
+        "misanthropes": 0.005952380952380952,
+        "rivalries": 0.08928571428571429,
+        "sibling_rivalries": 0.02976190476190476,
+        "business_owner_rivalries": 0.07738095238095238
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.1590909090909091,
+        "unrequited_love": 0.2727272727272727,
+        "asymmetric_friendships": 0.1590909090909091,
+        "misanthropes": 0.0,
+        "rivalries": 0.028409090909090908,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.03409090909090909
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.2184873949579832,
+        "unrequited_love": 0.3949579831932773,
+        "asymmetric_friendships": 0.2184873949579832,
+        "misanthropes": 0.0,
+        "rivalries": 0.004201680672268907,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.05042016806722689
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.18048780487804877,
+        "unrequited_love": 0.3024390243902439,
+        "asymmetric_friendships": 0.18048780487804877,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.06829268292682927
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.20754716981132076,
+        "unrequited_love": 0.3081761006289308,
+        "asymmetric_friendships": 0.20754716981132076,
+        "misanthropes": 0.0,
+        "rivalries": 0.03773584905660377,
+        "sibling_rivalries": 0.012578616352201259,
+        "business_owner_rivalries": 0.025157232704402517
+    },
+    {
+        "love_triangles": 0.008928571428571428,
+        "extramarital_romance": 0.17857142857142858,
+        "unrequited_love": 0.45535714285714285,
+        "asymmetric_friendships": 0.17857142857142858,
+        "misanthropes": 0.008928571428571428,
+        "rivalries": 0.008928571428571428,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.049107142857142856
+    },
+    {
+        "love_triangles": 0.02512562814070352,
+        "extramarital_romance": 0.2562814070351759,
+        "unrequited_love": 0.4271356783919598,
+        "asymmetric_friendships": 0.2562814070351759,
+        "misanthropes": 0.0,
+        "rivalries": 0.010050251256281407,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.04522613065326633
+    },
+    {
+        "love_triangles": 0.01694915254237288,
+        "extramarital_romance": 0.1694915254237288,
+        "unrequited_love": 0.4830508474576271,
+        "asymmetric_friendships": 0.1694915254237288,
+        "misanthropes": 0.0,
+        "rivalries": 0.00423728813559322,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.08050847457627118
+    },
+    {
+        "love_triangles": 0.007547169811320755,
+        "extramarital_romance": 0.22641509433962265,
+        "unrequited_love": 0.4981132075471698,
+        "asymmetric_friendships": 0.22641509433962265,
+        "misanthropes": 0.0,
+        "rivalries": 0.0037735849056603774,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.06792452830188679
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.21511627906976744,
+        "unrequited_love": 0.3430232558139535,
+        "asymmetric_friendships": 0.21511627906976744,
+        "misanthropes": 0.0,
+        "rivalries": 0.011627906976744186,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.05232558139534884
+    },
+    {
+        "love_triangles": 0.02,
+        "extramarital_romance": 0.16,
+        "unrequited_love": 0.5,
+        "asymmetric_friendships": 0.16,
+        "misanthropes": 0.0,
+        "rivalries": 0.015,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.08
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.17258883248730963,
+        "unrequited_love": 0.45685279187817257,
+        "asymmetric_friendships": 0.17258883248730963,
+        "misanthropes": 0.0,
+        "rivalries": 0.025380710659898477,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.08121827411167512
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.14473684210526316,
+        "unrequited_love": 0.26973684210526316,
+        "asymmetric_friendships": 0.14473684210526316,
+        "misanthropes": 0.0,
+        "rivalries": 0.07236842105263158,
+        "sibling_rivalries": 0.013157894736842105,
+        "business_owner_rivalries": 0.07894736842105263
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.1320754716981132,
+        "unrequited_love": 0.33962264150943394,
+        "asymmetric_friendships": 0.1320754716981132,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.09433962264150944
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.1414141414141414,
+        "unrequited_love": 0.2777777777777778,
+        "asymmetric_friendships": 0.1414141414141414,
+        "misanthropes": 0.0,
+        "rivalries": 0.015151515151515152,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.08080808080808081
+    },
+    {
+        "love_triangles": 0.0,
+        "extramarital_romance": 0.10909090909090909,
+        "unrequited_love": 0.2909090909090909,
+        "asymmetric_friendships": 0.10909090909090909,
+        "misanthropes": 0.0,
+        "rivalries": 0.0,
+        "sibling_rivalries": 0.0,
+        "business_owner_rivalries": 0.06060606060606061
+    }
+]
